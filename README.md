@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a student at Dr D Y Patil Institute of Technology, Pimpri, Pune, pursuing engineering. My branch is Artificial Intelligence and Data Science. I am eager to learn fundamental as well as new technologies.  
+# 💫 Hello, I am Dipam
+I am a student at Dr D Y Patil Institute of Technology, Pimpri, Pune, pursuing an engineering degree. My branch is Artificial Intelligence and Data Science. I am eager to learn fundamental and new technologies.  
 
 
 ## 🌐 Socials:
